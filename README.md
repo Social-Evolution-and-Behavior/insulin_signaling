@@ -18,3 +18,5 @@ Vikram Chandra\*(1), Ingrid Fetter-Pruneda\*(1), Peter R. Oxley(1,2), Amelia L. 
 * [README](./README.md) - this file
 * [License](./LICENSE) - GNU public license
 * [DESeq2_output](./DESeq2_output) - the differential gene expression values calculated for each of the seven species using DESeq2.
+* [orthomcl_output](./orthomcl_output) - the mcl groups from analysis of 18 NCBI-annotated insect genomes
+* [comparative_analysis](./comparative_analysis) - jupyter notebook showing the identification of concordant differentially expressed genes in seven ant species
