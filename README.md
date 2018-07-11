@@ -24,5 +24,5 @@ Vikram Chandra\*(1), Ingrid Fetter-Pruneda\*(1), Peter R. Oxley(1,2), Amelia L. 
 * [Orug_gene_lists](./Orug_gene_lists) - the lists of ortholog groups for selected genes in Odontomachus ruginodis
 * [Cpla_contamination_removal](./Cpla_contamination_removal.ipynb) - jupyter notebook showing the pipeline to identify and remove contaminants from the Camponotus planatus transcriptome
 * [Orug_contamination_removal](./Orug_contamination_removal.ipynb) - jupyter notebook showing the pipeline to identify and remove contaminants from the Odontomachus ruginodis transcriptome
-[clean_Cpla_txome](./clean_Cpla_txome.fasta) - Predicted peptide sequences for each transcript in the cleaned Camponotus planatus transcriptome
-[clean_Orug_txome](./clean_Orug_txome.fasta) - Predicted peptide sequences for each transcript in the cleaned Odontomachus ruginodis transcriptome
+* [clean_Cpla_txome](./clean_Cpla_txome.fasta) - Predicted peptide sequences for each transcript in the cleaned Camponotus planatus transcriptome
+* [clean_Orug_txome](./clean_Orug_txome.fasta) - Predicted peptide sequences for each transcript in the cleaned Odontomachus ruginodis transcriptome
