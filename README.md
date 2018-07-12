@@ -20,8 +20,6 @@ Vikram Chandra\*(1), Ingrid Fetter-Pruneda\*(1), Peter R. Oxley(1,2), Amelia L. 
 * [DESeq2_output](./DESeq2_output) - the differential gene expression values calculated for each of the seven species using DESeq2.
 * [orthomcl_output](./orthomcl_output) - the mcl groups from analysis of 18 NCBI-annotated insect genomes
 * [comparative_analysis](./comparative_analysis.ipynb) - jupyter notebook showing the identification of concordant differentially expressed genes in seven ant species
-* [Cpla_gene_lists](./Cpla_gene_lists) - the lists of ortholog groups for selected genes in Camponotus planatus
-* [Orug_gene_lists](./Orug_gene_lists) - the lists of ortholog groups for selected genes in Odontomachus ruginodis
 * [Cpla_contamination_removal](./Cpla_contamination_removal.ipynb) - jupyter notebook showing the pipeline to identify and remove contaminants from the Camponotus planatus transcriptome
 * [Orug_contamination_removal](./Orug_contamination_removal.ipynb) - jupyter notebook showing the pipeline to identify and remove contaminants from the Odontomachus ruginodis transcriptome
 * [clean_Cpla_txome](./clean_Cpla_txome.fasta) - Predicted peptide sequences for each transcript in the cleaned Camponotus planatus transcriptome
