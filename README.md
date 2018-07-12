@@ -1,6 +1,8 @@
 # insulin_signaling
 This repository provides access to the data and methods used for the comparative analysis of ant brain gene expression between reproductive and non-reproductive castes. This work was originally published in Chandra, V., Fetter-Pruneda, I. _et al_. Science (2018):
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1311222.svg)](https://doi.org/10.5281/zenodo.1311222)
+
 **Social regulation of insulin signaling and the evolution of eusociality in ants**
 
 Vikram Chandra\*(1), Ingrid Fetter-Pruneda\*(1), Peter R. Oxley(1,2), Amelia L. Ritger(1), Sean K. McKenzie(1,3), Romain Libbrecht(1,4), Daniel J. C. Kronauer(1)
